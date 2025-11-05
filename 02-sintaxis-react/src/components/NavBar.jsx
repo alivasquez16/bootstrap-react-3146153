@@ -6,9 +6,11 @@ export const NavBar = () => {
     <div>
       <div className='contenedor-1'>
         <div className='navegacion'>
-         <img src="" alt="" /> <br/>
-         <h2>Extensions</h2> 
-         <button className='btn-mode'>◌</button>
+          <div className='cont-logo-titulo'>
+         <img className='imagen' src="./public/logo.png" alt=""/>
+         <h2 className='titulo-h2'>Extensions</h2> 
+          </div>
+         <button className='btn-mode'>⏾</button>
        </div>
        
       </div>

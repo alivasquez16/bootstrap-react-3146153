@@ -1,22 +1,36 @@
 .contenedor-1{
-     width: 70%;
-    height: 10vh;
-    background-color: grey;
-    opacity: 0.5;
-    border-radius: 10px;
     display: flex;
     justify-content: center;
+    width: 100%;
 }
 .navegacion{
-   
+    width: 80%;
+    height: 14vh;
+    background-color: #2f364b;
+    margin-top: 20px;
+    border-radius: 10px;
     display: flex;
-    
-    gap: 40vh;
+    align-items: center;
+    gap: 71%;
+    padding: 15px;
+}
+.cont-logo-titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .btn-mode{
-    background-color: rgb(255, 255, 255);
-    opacity: 0.3;
-    width: 3%;
+    background-color: #545969;
     height: 7vh;
-    
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imagen{
+    width: 50%;
+}
+.titulo-h2{
+    color: white;
+    font-size: 4vh;
 }
