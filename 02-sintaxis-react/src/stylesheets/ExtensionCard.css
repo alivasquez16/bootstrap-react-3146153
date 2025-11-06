@@ -20,14 +20,14 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-
+    margin-top: 30px;
 }
 .imagen-1{
     width: 55%;
 }
 p {
     color: white;
-    font-size: 18px;
+    font-size: 16px;
 }
 .boton-2{
     background-color: #545969;
@@ -38,5 +38,5 @@ p {
     font-family: sans-serif;
     font-size: 18px;
     width: 7rem;
-    margin-left: -75%;
+    margin-left: -85%;
 }
