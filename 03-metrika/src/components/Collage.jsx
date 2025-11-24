@@ -23,7 +23,7 @@ export const Collage = () => {
                     </div> 
                     <div class="col caja-grande bg-azul">
                         <img className='collage-fotos' src="./public/collage-fotos.png" alt="" />
-                        <h1>Our Works</h1>
+                        <h1 className='texto-nuevo' >Our Works</h1>
                     </div>
                     <div class="col">
                         <div className='caja-sola-2 bg-rosado'>
