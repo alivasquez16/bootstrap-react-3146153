@@ -1,0 +1,10 @@
+
+.bg-gradient-fondo {
+  background: linear-gradient(90deg, #000000, #1F4448);
+}
+
+.descripcion-general-comic{
+ 
+  padding: 2rem;
+  gap: 20px;
+}
