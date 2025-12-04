@@ -8,3 +8,20 @@
   padding: 2rem;
   gap: 20px;
 }
+
+.mb-h{
+   margin-top: -4.2rem;
+   margin-left: 83.2%;
+}
+
+.m-h{
+  margin-right: 79%;
+  margin-top: -2.5rem;
+}
+.m-t{
+  margin-top: 18.5%;
+  margin-right: 56%;
+}
+.bg-turquesa-oscuro{
+  background-color: rgba(50, 61, 61, 0.466);
+}
