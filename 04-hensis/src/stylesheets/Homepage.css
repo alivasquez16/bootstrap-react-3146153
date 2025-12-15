@@ -2,18 +2,10 @@
 .bg-gradient-fondo {
   background: linear-gradient(90deg, #000000, #1F4448);
 }
-
-.descripcion-general-comic{
- 
-  padding: 2rem;
-  gap: 20px;
-}
-
 .mb-h{
    margin-top: -4.2rem;
    margin-left: 83.2%;
 }
-
 .m-h{
   margin-right: 79%;
   margin-top: -2.5rem;
@@ -21,6 +13,34 @@
 .m-t{
   margin-top: 18.5%;
   margin-right: 56%;
+}
+.m-t2{
+  margin-top: 12.4%;
+  margin-right: 61%;
+}
+.m-t3{
+  margin-top: 12.4%;
+  margin-right: 20.4%;
+}
+.m-t4{
+  margin-top: 12.4%;
+  margin-right: -20.4%;
+}
+.m-t5{
+  margin-top: 12.4%;
+  margin-right: -61%;
+}
+.precio{
+  margin-top: -20px;
+  margin-left: 7px;
+}
+.precio2{
+  margin-top: -20px;
+  margin-left: 10px;
+}
+.precio3{
+  margin-top: -20px;
+  margin-left: 15px;
 }
 .bg-turquesa-oscuro{
   background-color: rgba(50, 61, 61, 0.466);
